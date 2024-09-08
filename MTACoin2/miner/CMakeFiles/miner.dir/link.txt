@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/miner.dir/miner.c.o CMakeFiles/miner.dir/home/yuvalyar/Desktop/MTACoin2/SharedFile/SharedFile.c.o -o miner  -lz /usr/lib/x86_64-linux-gnu/libz.so 

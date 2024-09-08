@@ -1,0 +1,3 @@
+/home/yuvalyar/Desktop/MTACoin2/miner/CMakeFiles/miner.dir
+/home/yuvalyar/Desktop/MTACoin2/miner/CMakeFiles/edit_cache.dir
+/home/yuvalyar/Desktop/MTACoin2/miner/CMakeFiles/rebuild_cache.dir

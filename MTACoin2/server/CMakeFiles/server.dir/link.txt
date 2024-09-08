@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/server.dir/server.c.o CMakeFiles/server.dir/home/yuvalyar/Desktop/MTACoin2/SharedFile/SharedFile.c.o -o server  /usr/lib/x86_64-linux-gnu/libz.so -lpthread 

@@ -1,0 +1,3 @@
+/home/yuvalyar/Desktop/MTACoin2/server/CMakeFiles/server.dir
+/home/yuvalyar/Desktop/MTACoin2/server/CMakeFiles/edit_cache.dir
+/home/yuvalyar/Desktop/MTACoin2/server/CMakeFiles/rebuild_cache.dir

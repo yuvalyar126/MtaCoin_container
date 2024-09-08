@@ -38,4 +38,5 @@ A C compiler (like GCC).
 POSIX-compliant system (Linux/Unix) for named pipe usage.
 
 NOTE - Please delete miner_count.txt before each run (execpt the first).
+
 NOTE - You might encounter an error when running, please try running the program a few times. It should work after a few attempts. 
